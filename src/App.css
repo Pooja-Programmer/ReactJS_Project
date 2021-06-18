@@ -484,7 +484,7 @@ h3{
     width:90%;
   }
 }
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 560px) {
        .Locations{
     display: grid;
     flex-direction: row;
